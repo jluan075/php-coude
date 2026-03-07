@@ -1,0 +1,6 @@
+ls -> listar arquivos
+cd -> mudar de pasta
+pwd -> caminho do arquivo atual
+git init -> iniciar repositorio na pasta
+git add -> adicionar uma mudança
+git config --global user.name "seu nome" -> configurar nome de usuario
