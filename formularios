@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UFT-8">
+        <meta name="'viewport" content="width=device-width, initial-sacle=1.0">
+        <title>atividade01 07/03 </title>
+    </head>
+    <body>
+         <form action="">
+                <label for="nome">Nome:</label>
+                <input type="text" name="" id="Nome"> <br> <br>
+                <label for="nome">Email:</label>
+                <input type="email" name="" id="Email"> <br> <br>
+                <label for="nome">Senha:</label>
+                <input type="password" name="" id="Senha"> <br> <br>
+                 <br>
+                <label for="sexoM">Masculino:</label>
+                <input type="radio" name="sexo" id="sexoM">
+                <label for="sexoF">Feminino:</label>
+                <input type="radio" name="sexo" id="sexoF">
+
+    </body>
