@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UFT-8">
+        <title> Perfil do aluno</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1> Perfil do aluno </h1>
+        <div class="card">
+            <h2>Jonatas Luan</h2>
+            <p>Aluno do curso de Programação</p>
+            <p>Turma:28</p>
+        </div>
+        <div class="painel">
+            <h2>Informações gerais</h2>
+            <p>Idade:26</p>
+            <P>Nivel:Iniciante</P>
+            <p>Turno: manhã</p>
+        </div>
+        <h2>DESEMPENHO</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Materia</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Lógica</td>
+                    <td>Otimo</td>
+                </tr>
+                <tr>
+                    <td>HTML</td>
+                    <td>Otimo</td>
+                </tr>
+                <tr>
+                    <td>CSS</td>
+                    <td>Regular/td>
+                </tr>
+            </tbody>
+        </table>
+
+    </body>
+</html>
